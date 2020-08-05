@@ -1,6 +1,6 @@
-IEEE demo repo
+#### IEEE demo repo
 
-Basic website build availaible in `docs` branch.
+<!-- Basic website build will be availaible in and hosted from the `docs` branch. -->
 
 - Checkout my [portfolio](https://chandrashritii.github.io/blog/portfolio/) website.
 - Checkout my [tech blog.](https://chandrashritii.github.io/blog/)
